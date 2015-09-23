@@ -10,3 +10,6 @@ processors. Techniques for better scheduling already existed. The techniques tha
 studied in this project used the concept of collision graph that is explained further.
 Scheduling algorithms like FCFS (First come first serve), ISCOM, or Independent Set COMMUNICATION, MISCOM, or Maximal Independent Set COMMUNICATION
 Were studied and MISCOM having best efficiency was studied extensively and a stimulation is developed in MATLAB.
+
+
+Original Research paper on which this is implemented : http://dl.acm.org/citation.cfm?id=948766
